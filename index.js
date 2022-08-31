@@ -1,5 +1,5 @@
-cosnt name = "Foo"
+const name = "Foo"
 
 name = "bar"
 
-consoke.log(name ==== "Foo")
+console.log(name ==== "Foo")
