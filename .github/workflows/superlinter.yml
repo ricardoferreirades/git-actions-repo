@@ -8,10 +8,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       name: Checkout Code
-      use: actions/checkout@v2
+      uses: actions/checkout@v2
       
       name: Run Super Lint
-      use: github/superlinter@v3
+      uses: github/superlinter@v3
       
       env:
         DEFAULT_BRANCH: main
