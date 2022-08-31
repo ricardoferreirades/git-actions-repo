@@ -1,2 +1,2 @@
-const name = "Foo"
+var name = "Foo"
 console.log(name === "Foo")
