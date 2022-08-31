@@ -2,4 +2,4 @@ const name = "Foo"
 
 name = "bar"
 
-console.log(name ==== "Foo")
+console.log(name === "Foo")
